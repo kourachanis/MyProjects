@@ -18,3 +18,6 @@ Javascript:
 
 SQL:
 1. Project SQL.zip: A mini project using drawio and mySQL on a local server.
+
+React:
+1. FirstExerciseInReact.zip: A simple exercise in React where we simply change the height and width of an image by setting our own values.
