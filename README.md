@@ -21,3 +21,5 @@ SQL:
 
 React:
 1. FirstExerciseInReact.zip: A simple exercise in React where we simply change the height and width of an image by setting our own values.
+2. Exercise1.zip: Creating a component in react that displays the objects according to a template.
+3. Exercise2.zip: Creating a component in react that displays products in a specific form.
