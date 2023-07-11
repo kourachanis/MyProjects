@@ -1,4 +1,8 @@
 # projects
+Academic Projects
+
+1. ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ PROJECT.zip: An academic project using the Agile method.
+
 Personal Projects
 
 HTML-CSS-Bootstrap:
@@ -21,3 +25,5 @@ SQL:
 
 React:
 1. FirstExerciseInReact.zip: A simple exercise in React where we simply change the height and width of an image by setting our own values.
+
+
